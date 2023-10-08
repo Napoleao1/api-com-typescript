@@ -1,13 +1,11 @@
 {
-  "name": "api-rest",
+  "name": "api",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Napoleao",
+  "repository": "https://github.com/Napoleao1/api-com-typescript.git",
+  "author": "Napoleao1 <ernaninandoxd@gmail.com>",
   "license": "MIT",
+  "private": false,
   "dependencies": {
     "express": "^4.18.2"
   },
